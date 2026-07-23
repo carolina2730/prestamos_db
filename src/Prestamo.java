@@ -1,4 +1,4 @@
-public class Prestamo {
+ public class Prestamo {
     private int id;
     private String nombre;
     private double monto;

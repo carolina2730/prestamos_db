@@ -2,8 +2,13 @@
     "cSpell.words": [
         "actualizar",
         "Conexion",
+        "listar",
         "Pagado"
     ],
     "commentTranslate.source": "Copilot",
-    "commentTranslate.targetLanguage": "en"
+    "commentTranslate.targetLanguage": "en",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
