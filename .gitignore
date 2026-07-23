@@ -1,1 +1,5 @@
-ConexionBD.class
+*.class
+*.jar
+bin/
+build/
+out/
